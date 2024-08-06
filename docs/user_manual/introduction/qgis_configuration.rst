@@ -1595,7 +1595,7 @@ But you can create as many user profiles as you want:
    * and ``<UserProfiles>`` represents the main profiles folder, i.e.:
 
      * |nix| :file:`.local/share/QGIS/QGIS3/profiles/`
-     * |win| :file:`%AppData%\\Roaming\\QGIS\\QGIS3\\profiles\\`
+     * |win| :file:`%AppData%\\QGIS\\QGIS3\\profiles\\`
      * |osx| :file:`Library/Application Support/QGIS/QGIS3/profiles/`
 
    The user profile folder can be opened from within QGIS using the
